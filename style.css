@@ -34,3 +34,7 @@
 .d_none{
     display: none;
 }
+
+.blue{
+    background-color: blue;
+}
