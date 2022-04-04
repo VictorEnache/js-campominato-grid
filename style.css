@@ -31,6 +31,14 @@
     border: 1px solid black;
 }
 
+.c_100,
+.c_81,
+.c_49{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
 .d_none{
     display: none;
 }
